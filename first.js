@@ -39,3 +39,17 @@ let divFirst = 5;
 let divSecond = 5;
 let divission = divFirst / divSecond;
 console.log(divission)
+
+
+            // Concatination
+
+let first = "Jobayer";
+let second = "Halim";
+let con = first + " " + second;
+console.log(con)
+
+        // Assignment Opparetor
+
+let op = 20;
+let opz =+ 20;
+console.log(op)
