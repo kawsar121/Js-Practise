@@ -4,6 +4,7 @@
 * pop er kaz holo shobar sheshe element bad dewa ,, shekhetre evave dile hobe pop();
 * unshift er kaz holo pothom dike element jog jora;
 * shift er kaz holo pothom dike element bad dewa;
+* indexof er kaz holo koto number position e iteam ta ase khuje ber kora;
 
             Example::
 
@@ -19,6 +20,10 @@ console.log(arry)
 
 
 */
+            // index number cheek
+const arry = ['kamal' , 'jamal' , 'lamal'];
+const aj = arry.indexOf('jamal')
+console.log(aj)
 
 
 
