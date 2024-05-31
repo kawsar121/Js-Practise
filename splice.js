@@ -3,6 +3,3 @@ const lage = arry21.splice(0,1);
 console.log(lage)
 
 
-let x = 12345;
-let y = x.toString();
-console.log(typeof y);
